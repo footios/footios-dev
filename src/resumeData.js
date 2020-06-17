@@ -22,7 +22,22 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"Hi, I want to become a Professional React Native Developer. I've learned JavaScript, React, Firebase etc. Currently I'm learning React Native Animations",
+    "aboutme":`
+    I started learning programming in 2016. 
+    My first contact was with Java, in order to become an Android developer. 
+    Then I wanted to learn some Web Development, before jumping into Mobile Development. 
+    So I started studying JavaScript etc. 
+    The idea of having an app on both platforms (Android & iOS) really engaged me, 
+    so I thought it would be better to become a React Native Developer 
+    instead of just an Android Developer. 
+    So I took a course in React first. 
+    After a year of preparation, I started learning React Native. 
+    In total I have more than 3.000 hours of study and software developing.  
+    I study 4 - 6 hours every day (without the brakes)!
+    Currently I'm learning React Native Animations. 
+    Further I'm developing a React Native app, which is a quiz. 
+    The end goal is to become a React Native Developer.
+    Thank you`,
     "address":"Greece",
     "website":"https://www.linkedin.com/in/fotios-tsakiris-72331b170/",
     "education":[
