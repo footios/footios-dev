@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://drive.google.com/file/d/1ln7TXmK8ULdAbHtErA-RAzXCVzUWKR5Y/view?usp=sharing",
     "name": "Fotios Tsakiris",
     "role": "Persuing a React Native dev position",
     "linkedinId":"Fotios Tsakiris",
