@@ -24,7 +24,7 @@ let resumeData = {
       ],
     "aboutme":"Hi, I want to become a Professional React Native Developer. I've learned JavaScript, React, Firebase etc. Currently I'm learning React Native Animations",
     "address":"Greece",
-    "website":"https://rbhatia46.github.io",
+    "website":"https://www.linkedin.com/in/fotios-tsakiris-72331b170/",
     "education":[
       {
         "UniversityName":"Aristotle’s University",
@@ -33,7 +33,37 @@ let resumeData = {
         "YearOfStarting":"2004",
         "MonthOfPassing":"Nov.",
         "YearOfPassing":"2008",
-        "Achievements":"Grade: 8"
+        "Grade":"Grade: 8"
+      },
+      {
+        "UniversityName":"Udemy",
+        "Author":"Academind by Maximilian Schwarzmuller.",
+        "specialization":"Accelerate ES6 JavaScript Training",
+        "MonthOfStarting":"Apr.",
+        "YearOfStarting":"2020",
+        "MonthOfPassing":"May.",
+        "YearOfPassing":"2020",
+        // "Achievements":"Grade: 8"
+      },
+      {
+        "UniversityName":"Udemy",
+        "Author":"Academind by Maximilian Schwarzmuller.",
+        "specialization":"React The Complete Guide",
+        "MonthOfStarting":"Oct.",
+        "YearOfStarting":"2018",
+        "MonthOfPassing":"Feb.",
+        "YearOfPassing":"2019",
+        // "Achievements":"Grade: 8"
+      },
+      {
+        "UniversityName":"Udemy",
+        "Author":"Jason Brown",
+        "specialization":"Master React Native Animations",
+        "MonthOfStarting":"Feb.",
+        "YearOfStarting":"2020",
+        "MonthOfPassing":"Mar.",
+        "YearOfPassing":"2020",
+        // "Achievements":"Grade: 8"
       },
       // {
       //   "UniversityName":"Some University",
@@ -75,17 +105,18 @@ let resumeData = {
         "Country":" Amersfoort, Netherlands"
       },
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Skills & Endorsements",
     "skills":[
       {
-        "skillname":"Html5"
+        "skillname":"javascript"
       },
       {
-        "skillname":"CSS"
+        "skillname":"reactjs"
       },
       {
-        "skillname":"Reactjs"
-      }
+        "skillname":"react-native"
+      },
+    
     ],
     "portfolio":[
       {

@@ -350,6 +350,21 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
+.javascript {
+  	width: 51%;
+  	-moz-animation: javascript 2s ease;
+  	-webkit-animation: javascript 2s ease;
+}
+.reactjs {
+  	width: 41%;
+  	-moz-animation: reactjs 2s ease;
+  	-webkit-animation: reactjs 2s ease;
+}
+.react-native {
+  	width: 76%;
+  	-moz-animation: react-native 2s ease;
+  	-webkit-animation: react-native 2s ease;
+}
 .jquery {
   	width: 50%;
   	-moz-animation: jquery 2s ease;
@@ -376,6 +391,18 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
+@-moz-keyframes javascript {
+  0%   { width: 0px;  }
+  100% { width: 51%;  }
+}
+@-moz-keyframes react-native {
+  0%   { width: 0px;  }
+  100% { width: 76%;  }
+}
+@-moz-keyframes reactjs {
+  0%   { width: 0px;  }
+  100% { width: 41%;  }
+}
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
   100% { width: 50%;  }
@@ -400,6 +427,18 @@ ul#nav li.current a { color: #F06000; }
 @-webkit-keyframes html5 {
   0%   { width: 0px;  }
   100% { width: 80%;  }
+}
+@-webkit-keyframes javascript {
+  0%   { width: 0px;  }
+  100% { width: 51%;  }
+}
+@-webkit-keyframes reactjs {
+  0%   { width: 0px;  }
+  100% { width: 41%;  }
+}
+@-webkit-keyframes react-native {
+  0%   { width: 0px;  }
+  100% { width: 76%;  }
 }
 @-webkit-keyframes jquery {
   0%   { width: 0px;  }
@@ -734,7 +773,7 @@ call-to-action .button {
    clear: both;
 }
 
-/* No JavaScript Fallback */
+/* No javascript Fallback */
 /* If you are not using another script, such as Modernizr, make sure you
  * include js that eliminates this class on page load */
 .no-js .slides > li:first-child { display: block; }
