@@ -5,7 +5,8 @@
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "homepage": "http://{footios}.github.io/{fooTios}" 
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,6 +28,6 @@
   ],
   "devDependencies": {
     "gh-pages": "^3.0.0",
-    "homepage": "http://{footios}.github.io/{footios}" 
+    
   }
 }
