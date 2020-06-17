@@ -13,3 +13,5 @@ A simple SPA Portfolio template for developer/designers built with React. Use it
 4. Run ```npm start``` to spin the up the local dev server port 3000.(http://localhost:3000).
 5. Make required changes in ```src/resumeData.js``` to suit your needs.
 
+
+[repo](https://github.com/rbhatia46/React-Portfolio)
