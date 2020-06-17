@@ -6,7 +6,7 @@
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-scripts": "2.1.1",
-    "homepage": "http://{footios}.github.io/{fooTios}" 
+    "homepage": "https://{footios}.github.io/{fooTios}" 
   },
   "scripts": {
     "start": "react-scripts start",
