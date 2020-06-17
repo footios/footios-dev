@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "%7Bfootios%7D.github.io/%7Bfootios%7D/precache-manifest.2c1f6e22c9dfea41935f6d63d29c9bd3.js"
+  "/footios/precache-manifest.2ae041aff7d241e3944144f2b87ad4cc.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("%7Bfootios%7D.github.io/%7Bfootios%7D/index.html", {
+workbox.routing.registerNavigationRoute("/footios/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,13 +1,13 @@
 {
-  "main.css": "%7Bfootios%7D.github.io/%7Bfootios%7D/static/css/main.51e6efc0.chunk.css",
-  "main.js": "%7Bfootios%7D.github.io/%7Bfootios%7D/static/js/main.34eb8215.chunk.js",
-  "main.js.map": "%7Bfootios%7D.github.io/%7Bfootios%7D/static/js/main.34eb8215.chunk.js.map",
-  "static/js/1.6eb6405c.chunk.js": "%7Bfootios%7D.github.io/%7Bfootios%7D/static/js/1.6eb6405c.chunk.js",
-  "static/js/1.6eb6405c.chunk.js.map": "%7Bfootios%7D.github.io/%7Bfootios%7D/static/js/1.6eb6405c.chunk.js.map",
-  "runtime~main.js": "%7Bfootios%7D.github.io/%7Bfootios%7D/static/js/runtime~main.ea70281e.js",
-  "runtime~main.js.map": "%7Bfootios%7D.github.io/%7Bfootios%7D/static/js/runtime~main.ea70281e.js.map",
-  "static/css/main.51e6efc0.chunk.css.map": "%7Bfootios%7D.github.io/%7Bfootios%7D/static/css/main.51e6efc0.chunk.css.map",
-  "index.html": "%7Bfootios%7D.github.io/%7Bfootios%7D/index.html",
-  "precache-manifest.2c1f6e22c9dfea41935f6d63d29c9bd3.js": "%7Bfootios%7D.github.io/%7Bfootios%7D/precache-manifest.2c1f6e22c9dfea41935f6d63d29c9bd3.js",
-  "service-worker.js": "%7Bfootios%7D.github.io/%7Bfootios%7D/service-worker.js"
+  "main.css": "/footios/static/css/main.51e6efc0.chunk.css",
+  "main.js": "/footios/static/js/main.8a0f8c91.chunk.js",
+  "main.js.map": "/footios/static/js/main.8a0f8c91.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/footios/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/footios/static/js/1.6eb6405c.chunk.js.map",
+  "runtime~main.js": "/footios/static/js/runtime~main.ffd66e83.js",
+  "runtime~main.js.map": "/footios/static/js/runtime~main.ffd66e83.js.map",
+  "static/css/main.51e6efc0.chunk.css.map": "/footios/static/css/main.51e6efc0.chunk.css.map",
+  "index.html": "/footios/index.html",
+  "precache-manifest.2ae041aff7d241e3944144f2b87ad4cc.js": "/footios/precache-manifest.2ae041aff7d241e3944144f2b87ad4cc.js",
+  "service-worker.js": "/footios/service-worker.js"
 }
